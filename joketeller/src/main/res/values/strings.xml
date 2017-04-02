@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JokeTeller</string>
+    <string name="jokeTeller">JokeTeller!</string>
+    <string name="joke_error">Sorry! There was an error retrieving the joke</string>
+</resources>
